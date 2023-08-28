@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "theme": "elegant"
+      },
+  "basics": {
+    "name": "Dang Viet Hung",
+    "label": "Programmer",
+    "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
+    "email": "hung.dang980@gmail.com",
+    "phone": "0908 793 753",
+    "summary": "ソフトウェアエンジニアリングの分野での13年の経験を持ち、私は開発者、テックリード、マネージャーなどさまざまなポジションを経験し、CTOとしての経験も5年あります。私はCTO Summit 2021コンペティションのトップ10 CTOに選ばれ、vnexpress新聞の投票によるものです。ウェブ開発、データエンジニアリング、クラウドコンピューティング、DevOpsの分野で幅広い知識と経験を持っています。チームをゼロから構築し育てる能力には、面接の実施、トレーニングの提供、チームのリーダーシップなどの活動が含まれています。",
+    "location": {
+      "address": "",
+      "city": "Ho Chi Minh",
+      "countryCode": "VN"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "dang.v.hung.9",
+        "url": "https://www.facebook.com/dang.v.hung.9"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TSUDAKOMA Corp.",
+      "position": "Developer",
+      "website": "https://www.tsudakoma.co.jp",
+      "startDate": "2011-10-01",
+      "endDate": "2014-06-01",
+      "summary": "超高速ジェットルームや高性能サイジングマシンを提供する。",
+      "highlights": ["日本のチームと協力し、日本の文化を理解。","既に6か月間存在していたバグのデッドロックを発見。","最初のローディングプログラムを大幅に削減。"]
+    },
+    {
+      "company": "Hayabusa",
+      "position": "Team leader",
+      "startDate": "2014-07-01",
+      "endDate": "2018-03-30",
+      "summary": "Web/mobile system development",
+      "highlights": ["ドコプリというプリンター モバイルアプリケーション開発", "ファハサ オンライン書籍販売ビジネスのシステムを開発", "EzeePOS ポイントオブセールアプリケーション（POI)を開発"]
+    },
+    {
+      "company": "Smartlog",
+      "position": "Technical Leader",
+      "startDate": "2018-04-01",
+      "endDate": "2020-02-28",
+      "summary": "物流運用のための最初の統合プラットフォームとエコシステムになる。",
+      "highlights": [
+        "チームの開発、トレーニング、および成長を主導。",
+        "包括的な輸送管理システム（TMS）を設計し、導入に成功。",
+        "効率的な倉庫管理システム（WMS）の展開"
+    ]
+    },
+    {
+        "company": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
+        "position": "CTO",
+        "startDate": "2020-03-01",
+        "summary":  "物流運用のための最初の統合プラットフォームとエコシステムになる。",
+        "highlights": [
+          "トラッカーと荷主間の調整を支援するための輸送マーケットプレイスプラットフォームシステムの創造と展開の先導。",
+          "船会社とトラッカー間の調整を向上させるためのコンテナ最適化ソリューションの創造と展開の先導。",
+          "複数のソースからのデータを統合してデータウェアハウスの構築。"
+        ]
+      }
+  ],
+  "education": [
+    {
+      "institution": "JAIST 北陸先端科学技術大学院大学",
+      "area": "ソフトウェア エンジニア",
+      "studyType": "Master",
+      "startDate": "2009-10-01",
+      "endDate": "2011-10-01"
+    },
+    {
+      "institution": "Bach Khoa University",
+      "area": "ソフトウェア エンジニア",
+      "studyType": "Bachelor",
+      "startDate": "2004-09-01",
+      "endDate": "2009-04-01"
+    }
+  ],
+  "awards": [
+    {
+        "title": "Top 10 Vnexpress CTO Summit 2021",
+        "date": "2021-10",
+        "awarder": "Vnexpress",
+        "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
+    },
+    {
+      "title": "第3位　優秀な学生のための科学研究コンテスト",
+      "date": "2008-12-22",
+      "awarder": "",
+      "summary": "教育訓練大臣によって発表された",
+      "picture": "1.jpg"
+    },
+    {
+      "title": "第3位　VIFOTEC技術発明賞",
+      "date": "2008-12-29",
+      "summary": "ベトナム技術創造支援基金によって発表され (VIFOTEC)",
+      "picture": "2.jpg"
+    },
+    {
+      "title": "Japan Literacy and IT Test (JL1)",
+      "vertical": true,
+      "date": "2016-01-15",
+      "awarder": "Evolable Asia",
+      "picture": "4.jpg"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Dotnet",
+        "ReactJS",
+        "React native",
+        "Angular",
+        "Docker",
+        "MySQL",
+        "Postgres",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ, SQS",
+        "CyPress"
+      ]
+    },
+    {
+      "name": "Data Warehouse",
+      "level": "Master",
+      "keywords": [
+        "Kafka",
+        "Kafka connector",
+        "Prefect",
+        "Flink",
+        "Big Query",
+        "Postgres"
+      ]
+    },
+    {
+        "name": "Devops",
+        "level": "Master",
+        "keywords": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Jenkins",
+          "ArgoCD",
+          "Prometheus",
+          "ElasticSearch",
+          "Grafana",
+          "Kibana",
+          "APM",
+          "Percona Monitoring and Management (PMM)"
+        ]
+      }
+  ],
+  "languages": [
+    {
+      "language": "Vietnam",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Badminton"
+    }
+  ]
+}
