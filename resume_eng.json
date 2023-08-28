@@ -4,7 +4,7 @@
       },
   "basics": {
     "name": "Dang Viet Hung",
-    "label": "Programmer",
+    "label": "CTO",
     "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
     "email": "hung.dang980@gmail.com",
     "phone": "0908 793 753",
@@ -24,27 +24,27 @@
   },
   "work": [
     {
-      "company": "TSUDAKOMA Corp.",
-      "position": "Developer",
+      "name": "TSUDAKOMA Corp.",
+      "position": "開発者",
       "website": "https://www.tsudakoma.co.jp",
-      "startDate": "2011-10-01",
-      "endDate": "2014-06-01",
+      "startDate": "2011-10",
+      "endDate": "2014-06",
       "summary": "Develop a NAVI system that helps control all textile machines.",
       "highlights": ["Work with Japanese team to understand Japan culture", "Find the bug deadlock that already exist in 6 months", "Significant reduce first loading program"]
     },
     {
-      "company": "Hayabusa",
+      "name": "Hayabusa",
       "position": "Team leader",
-      "startDate": "2014-07-01",
-      "endDate": "2018-03-30",
+      "startDate": "2014-07",
+      "endDate": "2018-03",
       "summary": "Web/mobile system development",
       "highlights": ["Docopri printer mobile application", "Fahasa online book selling business", "EzeePOS Point of sale application"]
     },
     {
-      "company": "Smartlog",
+      "name": "Smartlog",
       "position": "Technical Leader",
-      "startDate": "2018-04-01",
-      "endDate": "2020-02-28",
+      "startDate": "2018-04",
+      "endDate": "2020-02",
       "summary": "Become the first integrated platform and ecosystem for logistics operation",
       "highlights": [
          "Spearheaded team development, training, and growth",
@@ -53,14 +53,14 @@
     ]
     },
     {
-        "company": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
+        "name": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
         "position": "CTO",
-        "startDate": "2020-03-01",
+        "startDate": "2020-03",
         "summary": "Become the first integrated platform and ecosystem for logistics operation",
         "highlights": [
-            "Build a transportation marketplace platform system to coordinate between trucker and shipper",
-            "Build a container optimization solutions to coordinate between shipping line and trucker",
-            "Build a data warehouse from multiple source"
+          "Pioneered the creation and deployment a transportation marketplace platform system to facilitate coordination between truckers and shippers",
+          "Pioneered the creation and deployment container optimization solutions to enhance coordination between shipping lines and truckers",
+          "Established a data warehouse by integrating data from multiple sources."
         ]
       }
   ],
@@ -69,43 +69,44 @@
       "institution": "Japan Advanced Institute of Science and Technology",
       "area": "Software Engineer",
       "studyType": "Master",
-      "startDate": "2009-10-01",
-      "endDate": "2011-10-01"
+      "startDate": "2009-10",
+      "endDate": "2011-10"
     },
     {
       "institution": "Bach Khoa University",
       "area": "Information System",
       "studyType": "Bachelor",
-      "startDate": "2004-09-01",
-      "endDate": "2009-04-01"
+      "startDate": "2004-09",
+      "endDate": "2009-04"
     }
   ],
   "awards": [
-    {
-        "title": "Top 10 Vnexpress CTO Summit 2021",
-        "date": "2021-10",
-        "awarder": "Vnexpress",
-        "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
-    },
+
     {
       "title": "Third Prize at Scientific Research Contest for Excellent Students",
-      "date": "2008-12-22",
+      "date": "2008-12",
       "awarder": "",
       "summary": "Presented by the Minister of Education and Training",
       "picture": "1.jpg"
     },
     {
       "title": "Third prize of VIFOTEC technical invention award",
-      "date": "2008-12-29",
+      "date": "2008-12",
       "summary": "Presented by Vietnam Fund for Supporting Technical Creations (VIFOTEC)",
       "picture": "2.jpg"
     },
     {
       "title": "Japan Literacy and IT Test (JL1)",
       "vertical": true,
-      "date": "2016-01-15",
+      "date": "2016-01",
       "awarder": "Japan Literacy and IT Test (JLIT)",
       "picture": "4.jpg"
+    },
+    {
+      "title": "Top 10 Vnexpress CTO Summit 2021",
+      "date": "2021-10",
+      "awarder": "Vnexpress",
+      "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
     }
   ],
 
@@ -120,11 +121,9 @@
         "React native",
         "Angular",
         "Docker",
-        "MySQL",
         "Postgres",
-        "MongoDB",
         "Redis",
-        "RabbitMQ, SQS",
+        "Queue",
         "CyPress"
       ]
     },
@@ -153,16 +152,21 @@
           "ElasticSearch",
           "Grafana",
           "Kibana",
-          "APM",
-          "Percona Monitoring and Management (PMM)"
+          "Logging/Tracing"
+        ]
+      },
+      {
+        "name": "Management",
+        "level": "Master",
+        "keywords": [
+          "Engineering Management",
+          "Agile Development",
+          "Project Management",
+          "LeaderShip"        
         ]
       }
   ],
   "languages": [
-    {
-      "language": "Vietnam",
-      "fluency": "Native speaker"
-    },
     {
       "language": "Japanese",
       "fluency": "fluent"
@@ -171,10 +175,6 @@
       "language": "English",
       "fluency": "fluent"
     }
-  ],
-  "interests": [
-    {
-      "name": "Badminton"
-    }
   ]
+  
 }

@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "export:eng": "resume export resume_eng.pdf --theme jsonresume-theme-full --resume ./resume_eng.json",
+    "export:jap": "resume export resume_jap.pdf --theme jsonresume-theme-full-jap --resume ./resume_jap.json"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-even": "^0.18.1",
+    "jsonresume-theme-full": "^0.0.4",
+    "jsonresume-theme-full-jap": "^0.0.4",
+    "jsonresume-theme-onepage": "^0.0.3",
+    "jsonresume-theme-sceptile": "^1.0.5"
+  }
+}

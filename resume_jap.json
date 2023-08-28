@@ -4,7 +4,7 @@
       },
   "basics": {
     "name": "Dang Viet Hung",
-    "label": "Programmer",
+    "label": "CTO",
     "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
     "email": "hung.dang980@gmail.com",
     "phone": "0908 793 753",
@@ -27,24 +27,24 @@
       "company": "TSUDAKOMA Corp.",
       "position": "Developer",
       "website": "https://www.tsudakoma.co.jp",
-      "startDate": "2011-10-01",
-      "endDate": "2014-06-01",
+      "startDate": "2011-10",
+      "endDate": "2014-06",
       "summary": "超高速ジェットルームや高性能サイジングマシンを提供する。",
       "highlights": ["日本のチームと協力し、日本の文化を理解。","既に6か月間存在していたバグのデッドロックを発見。","最初のローディングプログラムを大幅に削減。"]
     },
     {
       "company": "Hayabusa",
-      "position": "Team leader",
-      "startDate": "2014-07-01",
-      "endDate": "2018-03-30",
-      "summary": "Web/mobile system development",
+      "position": "チームリーダー",
+      "startDate": "2014-07",
+      "endDate": "2018-03",
+      "summary": "ウェブ/モバイル システム開発",
       "highlights": ["ドコプリというプリンター モバイルアプリケーション開発", "ファハサ オンライン書籍販売ビジネスのシステムを開発", "EzeePOS ポイントオブセールアプリケーション（POI)を開発"]
     },
     {
       "company": "Smartlog",
-      "position": "Technical Leader",
-      "startDate": "2018-04-01",
-      "endDate": "2020-02-28",
+      "position": "テクニカルリーダー",
+      "startDate": "2018-04",
+      "endDate": "2020-02",
       "summary": "物流運用のための最初の統合プラットフォームとエコシステムになる。",
       "highlights": [
         "チームの開発、トレーニング、および成長を主導。",
@@ -55,7 +55,7 @@
     {
         "company": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
         "position": "CTO",
-        "startDate": "2020-03-01",
+        "startDate": "2020-03",
         "summary":  "物流運用のための最初の統合プラットフォームとエコシステムになる。",
         "highlights": [
           "トラッカーと荷主間の調整を支援するための輸送マーケットプレイスプラットフォームシステムの創造と展開の先導。",
@@ -69,15 +69,15 @@
       "institution": "JAIST 北陸先端科学技術大学院大学",
       "area": "ソフトウェア エンジニア",
       "studyType": "Master",
-      "startDate": "2009-10-01",
-      "endDate": "2011-10-01"
+      "startDate": "2009-10",
+      "endDate": "2011-10"
     },
     {
       "institution": "Bach Khoa University",
       "area": "ソフトウェア エンジニア",
       "studyType": "Bachelor",
-      "startDate": "2004-09-01",
-      "endDate": "2009-04-01"
+      "startDate": "2004-09",
+      "endDate": "2009-04"
     }
   ],
   "awards": [
@@ -89,21 +89,21 @@
     },
     {
       "title": "第3位　優秀な学生のための科学研究コンテスト",
-      "date": "2008-12-22",
+      "date": "2008-12",
       "awarder": "",
       "summary": "教育訓練大臣によって発表された",
       "picture": "1.jpg"
     },
     {
       "title": "第3位　VIFOTEC技術発明賞",
-      "date": "2008-12-29",
+      "date": "2008-12",
       "summary": "ベトナム技術創造支援基金によって発表され (VIFOTEC)",
       "picture": "2.jpg"
     },
     {
       "title": "Japan Literacy and IT Test (JL1)",
       "vertical": true,
-      "date": "2016-01-15",
+      "date": "2016-2",
       "awarder": "Evolable Asia",
       "picture": "4.jpg"
     }
@@ -160,21 +160,12 @@
   ],
   "languages": [
     {
-      "language": "Vietnam",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "Japanese",
       "fluency": "fluent"
     },
     {
       "language": "English",
       "fluency": "fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Badminton"
     }
   ]
 }
