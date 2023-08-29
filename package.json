@@ -1,7 +1,7 @@
 {
   "scripts": {
     "export:eng": "resume export resume_eng.pdf --theme jsonresume-theme-full --resume ./resume_eng.json",
-    "export:jap": "resume export resume_jap.pdf --theme jsonresume-theme-full-jap --resume ./resume_jap.json"
+    "export:jap": "resume export resume_jap.pdf --theme jsonresume-theme-elegant --resume ./resume_jap.json"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
