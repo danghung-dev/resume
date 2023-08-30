@@ -8,7 +8,7 @@
     "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
     "email": "hung.dang980@gmail.com",
     "phone": "0908 793 753",
-    "summary": "With 13 years of experience in the field of software engineering, I have held various positions ranging from developer, tech lead, and manager, to 5 years of experience as a CTO. I had the honor of being ranked in the top 10 CTOs of the CTO Summit 2021 competition, as voted by vnexpress newspaper. I possess extensive knowledge and experience in web development, data engineering, cloud computing, and devops. My ability to build and develop teams from scratch includes activities such as conducting interviews, providing training, and leading teams.",
+    "summary": "With 13 years of experience in the field of software engineering, I have held various positions ranging from developer, tech lead, and manager, to 5 years of experience as a CTO. I had the honor of being ranked in the top 10 CTOs of the CTO Summit 2021 competition, as voted by vnexpress newspaper. I possess extensive knowledge and experience in web development, data engineering, cloud computing, and devops. My ability to build and develop teams from scratch includes activities such as conducting interviews, providing training, and leading teams. Currently, I have managed more than 300 services at Smartlog Corp.",
     "location": {
       "address": "",
       "city": "Ho Chi Minh",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "TSUDAKOMA Corp.",
-      "position": "開発者",
+      "position": "Developer",
       "website": "https://www.tsudakoma.co.jp",
       "startDate": "2011-10",
       "endDate": "2014-06",
@@ -58,9 +58,14 @@
         "startDate": "2020-03",
         "summary": "Become the first integrated platform and ecosystem for logistics operation",
         "highlights": [
+          "Manage over 300 services",
           "Pioneered the creation and deployment a transportation marketplace platform system to facilitate coordination between truckers and shippers",
           "Pioneered the creation and deployment container optimization solutions to enhance coordination between shipping lines and truckers",
-          "Established a data warehouse by integrating data from multiple sources."
+          "Established a data warehouse by integrating data from multiple sources.",
+          "Integrate with third party like SAP, Mondelez",
+          "Integrate with Ecommerce platform Shoppee, Lazada, Tiktok",
+          "Optimize AWS cloud cost",
+          "Deploy customer service Chatwoot"
         ]
       }
   ],
@@ -124,6 +129,7 @@
         "Postgres",
         "Redis",
         "Queue",
+        "Sonarqube",
         "CyPress"
       ]
     },
