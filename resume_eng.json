@@ -137,9 +137,10 @@
       "name": "Data Warehouse",
       "level": "Master",
       "keywords": [
+        "Streaming",
         "Kafka",
-        "Kafka connector",
-        "Prefect",
+        "Debezium",
+        "Schema Registry"
         "Flink",
         "Big Query",
         "Postgres"
