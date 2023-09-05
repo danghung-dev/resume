@@ -1,188 +1,189 @@
 {
-    "meta": {
-        "theme": "elegant"
-      },
-  "basics": {
-    "name": "Dang Viet Hung",
-    "label": "CTO",
-    "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
-    "email": "hung.dang980@gmail.com",
-    "phone": "0908 793 753",
-    "summary": "With 13 years of experience in the field of software engineering, I have held various positions ranging from developer, tech lead, and manager, to 5 years of experience as a CTO. I had the honor of being ranked in the top 10 CTOs of the CTO Summit 2021 competition, as voted by vnexpress newspaper. I possess extensive knowledge and experience in web development, data engineering, cloud computing, and devops. My ability to build and develop teams from scratch includes activities such as conducting interviews, providing training, and leading teams. Currently, I have managed more than 300 services at Smartlog Corp.",
-    "location": {
-      "address": "",
-      "city": "Ho Chi Minh",
-      "countryCode": "VN"
+  "meta": {
+      "theme": "elegant"
     },
-    "profiles": [
-      {
-        "network": "facebook",
-        "username": "dang.v.hung.9",
-        "url": "https://www.facebook.com/dang.v.hung.9"
-      }
-    ]
+"basics": {
+  "name": "Dang Viet Hung",
+  "label": "CTO",
+  "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
+  "email": "hung.dang980@gmail.com",
+  "phone": "0908 793 753",
+  "summary": "With 13 years of experience in the field of software engineering, I have held various positions ranging from developer, tech lead, and manager, to 5 years of experience as a CTO. I had the honor of being ranked in the top 10 CTOs of the CTO Summit 2021 competition, as voted by vnexpress newspaper. I possess extensive knowledge and experience in web development, data engineering, cloud computing, and devops. My ability to build and develop teams from scratch includes activities such as conducting interviews, providing training, and leading teams. Currently, I have managed 20 engineers and more than 300 services in a Kubernetes Cluster",
+  "location": {
+    "address": "",
+    "city": "Ho Chi Minh",
+    "countryCode": "VN"
   },
-  "work": [
+  "profiles": [
     {
-      "name": "TSUDAKOMA Corp.",
-      "position": "Developer",
-      "website": "https://www.tsudakoma.co.jp",
-      "startDate": "2011-10",
-      "endDate": "2014-06",
-      "summary": "Develop a NAVI system that helps control all textile machines.",
-      "highlights": ["Work with Japanese team to understand Japan culture", "Find the bug deadlock that already exist in 6 months", "Significant reduce first loading program"]
-    },
-    {
-      "name": "Hayabusa",
-      "position": "Team leader",
-      "startDate": "2014-07",
-      "endDate": "2018-03",
-      "summary": "Web/mobile system development",
-      "highlights": ["Docopri printer mobile application", "Fahasa online book selling business", "EzeePOS Point of sale application"]
-    },
-    {
-      "name": "Smartlog",
-      "position": "Technical Leader",
-      "startDate": "2018-04",
-      "endDate": "2020-02",
-      "summary": "Become the first integrated platform and ecosystem for logistics operation",
-      "highlights": [
-         "Spearheaded team development, training, and growth",
-        "Successfully designed and implemented a comprehensive Transport Management System (TMS)",
-        "Deployment of an efficient Warehouse Management System (WMS)"
-    ]
-    },
-    {
-        "name": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
-        "position": "CTO",
-        "startDate": "2020-03",
-        "summary": "Become the first integrated platform and ecosystem for logistics operation",
-        "highlights": [
-          "Manage over 300 services",
-          "Pioneered the creation and deployment a transportation marketplace platform system to facilitate coordination between truckers and shippers",
-          "Pioneered the creation and deployment container optimization solutions to enhance coordination between shipping lines and truckers",
-          "Established a data warehouse by integrating data from multiple sources.",
-          "Integrate with third party like SAP, Mondelez",
-          "Integrate with Ecommerce platform Shoppee, Lazada, Tiktok",
-          "Optimize AWS cloud cost",
-          "Deploy customer service Chatwoot"
-        ]
-      }
-  ],
-  "education": [
-    {
-      "institution": "Japan Advanced Institute of Science and Technology",
-      "area": "Software Engineer",
-      "studyType": "Master",
-      "startDate": "2009-10",
-      "endDate": "2011-10"
-    },
-    {
-      "institution": "Bach Khoa University",
-      "area": "Information System",
-      "studyType": "Bachelor",
-      "startDate": "2004-09",
-      "endDate": "2009-04"
-    }
-  ],
-  "awards": [
-
-    {
-      "title": "Third Prize at Scientific Research Contest for Excellent Students",
-      "date": "2008-12",
-      "awarder": "",
-      "summary": "Presented by the Minister of Education and Training",
-      "picture": "1.jpg"
-    },
-    {
-      "title": "Third prize of VIFOTEC technical invention award",
-      "date": "2008-12",
-      "summary": "Presented by Vietnam Fund for Supporting Technical Creations (VIFOTEC)",
-      "picture": "2.jpg"
-    },
-    {
-      "title": "Japan Literacy and IT Test (JL1)",
-      "vertical": true,
-      "date": "2016-01",
-      "awarder": "Japan Literacy and IT Test (JLIT)",
-      "picture": "4.jpg"
-    },
-    {
-      "title": "Top 10 Vnexpress CTO Summit 2021",
-      "date": "2021-10",
-      "awarder": "Vnexpress",
-      "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
-    }
-  ],
-
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "NodeJS",
-        "Dotnet",
-        "ReactJS",
-        "React native",
-        "Angular",
-        "Docker",
-        "Postgres",
-        "Redis",
-        "Queue",
-        "Sonarqube",
-        "CyPress"
-      ]
-    },
-    {
-      "name": "Data Warehouse",
-      "level": "Master",
-      "keywords": [
-        "Streaming",
-        "Kafka",
-        "Debezium",
-        "Schema Registry"
-        "Flink",
-        "Big Query",
-        "Postgres"
-      ]
-    },
-    {
-        "name": "Devops",
-        "level": "Master",
-        "keywords": [
-          "AWS",
-          "Kubernetes",
-          "Terraform",
-          "Jenkins",
-          "ArgoCD",
-          "Prometheus",
-          "ElasticSearch",
-          "Grafana",
-          "Kibana",
-          "Logging/Tracing"
-        ]
-      },
-      {
-        "name": "Management",
-        "level": "Master",
-        "keywords": [
-          "Engineering Management",
-          "Agile Development",
-          "Project Management",
-          "LeaderShip",
-          "Jira"       
-        ]
-      }
-  ],
-  "languages": [
-    {
-      "language": "Japanese",
-      "fluency": "fluent"
-    },
-    {
-      "language": "English",
-      "fluency": "fluent"
+      "network": "facebook",
+      "username": "dang.v.hung.9",
+      "url": "https://www.facebook.com/dang.v.hung.9"
     }
   ]
-  
+},
+"work": [
+  {
+    "name": "TSUDAKOMA Corp.",
+    "position": "Developer",
+    "website": "https://www.tsudakoma.co.jp",
+    "startDate": "2011-10",
+    "endDate": "2014-06",
+    "summary": "Develop a NAVI system that helps control all textile machines.",
+    "highlights": ["Work with Japanese team to understand Japan culture", "Find the bug deadlock that already exist in 6 months", "Significant reduce first loading program"]
+  },
+  {
+    "name": "Hayabusa",
+    "position": "Team leader",
+    "startDate": "2014-07",
+    "endDate": "2018-03",
+    "summary": "Web/mobile system development",
+    "highlights": ["Docopri printer mobile application", "Fahasa online book selling business", "EzeePOS Point of sale application"]
+  },
+  {
+    "name": "Smartlog",
+    "position": "Technical Leader",
+    "startDate": "2018-04",
+    "endDate": "2020-02",
+    "summary": "Become the first integrated platform and ecosystem for logistics operation",
+    "highlights": [
+       "Spearheaded team development, training, and growth",
+      "Successfully designed and implemented a comprehensive Transport Management System (TMS)",
+      "Deployment of an efficient Warehouse Management System (WMS)"
+  ]
+  },
+  {
+      "name": "Smartlog (https://gosmartlog.com/gioi-thieu/)",
+      "position": "CTO",
+      "startDate": "2020-03",
+      "summary": "Become the first integrated platform and ecosystem for logistics operation",
+      "highlights": [
+        "Manage over 300 services",
+        "Pioneered the creation and deployment a transportation marketplace platform system to facilitate coordination between truckers and shippers",
+        "Pioneered the creation and deployment container optimization solutions to enhance coordination between shipping lines and truckers",
+        "Established a data warehouse by integrating data from multiple sources.",
+        "Integrate with third party like SAP, Mondelez",
+        "Integrate with Ecommerce platform Shoppee, Lazada, Tiktok",
+        "Optimize AWS cloud cost",
+        "Deploy customer service Chatwoot"
+      ]
+    }
+],
+"education": [
+  {
+    "institution": "Japan Advanced Institute of Science and Technology",
+    "area": "Software Engineer",
+    "studyType": "Master",
+    "startDate": "2009-10",
+    "endDate": "2011-10"
+  },
+  {
+    "institution": "Bach Khoa University",
+    "area": "Information System",
+    "studyType": "Bachelor",
+    "startDate": "2004-09",
+    "endDate": "2009-04"
+  }
+],
+"awards": [
+
+  {
+    "title": "Third Prize at Scientific Research Contest for Excellent Students",
+    "date": "2008-12",
+    "awarder": "",
+    "summary": "Presented by the Minister of Education and Training",
+    "picture": "1.jpg"
+  },
+  {
+    "title": "Third prize of VIFOTEC technical invention award",
+    "date": "2008-12",
+    "summary": "Presented by Vietnam Fund for Supporting Technical Creations (VIFOTEC)",
+    "picture": "2.jpg"
+  },
+  {
+    "title": "Japan Literacy and IT Test (JL1)",
+    "vertical": true,
+    "date": "2016-01",
+    "awarder": "Japan Literacy and IT Test (JLIT)",
+    "picture": "4.jpg"
+  },
+  {
+    "title": "Top 10 Vnexpress CTO Summit 2021",
+    "date": "2021-10",
+    "awarder": "Vnexpress",
+    "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
+  }
+],
+
+"skills": [
+  {
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "NodeJS",
+      "Dotnet",
+      "ReactJS",
+      "React native",
+      "Angular",
+      "Docker",
+      "Postgres",
+      "Redis",
+      "Queue",
+      "Sonarqube",
+      "CyPress"
+    ]
+  },
+  {
+    "name": "Data Warehouse",
+    "level": "Master",
+    "keywords": [
+      "Streaming",
+      "Kafka",
+      "Debezium",
+      "Schema Registry",
+      "Flink",
+      "Big Query",
+      "AirFlow",
+      "Postgres"
+    ]
+  },
+  {
+      "name": "Devops",
+      "level": "Master",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Jenkins",
+        "ArgoCD",
+        "Prometheus",
+        "ElasticSearch",
+        "Grafana",
+        "Kibana",
+        "Logging/Tracing"
+      ]
+    },
+    {
+      "name": "Management",
+      "level": "Master",
+      "keywords": [
+        "Engineering Management",
+        "Agile Development",
+        "Project Management",
+        "LeaderShip",
+        "Jira"       
+      ]
+    }
+],
+"languages": [
+  {
+    "language": "Japanese",
+    "fluency": "fluent"
+  },
+  {
+    "language": "English",
+    "fluency": "fluent"
+  }
+]
+
 }
