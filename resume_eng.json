@@ -8,7 +8,7 @@
   "picture": "https://github.com/danghung-dev/resume/blob/main/images/avatar.png?raw=true",
   "email": "hung.dang980@gmail.com",
   "phone": "0908 793 753",
-  "summary": "With 13 years of experience in the field of software engineering, I have held various positions ranging from developer, tech lead, and manager, to 5 years of experience as a CTO. I had the honor of being ranked in the top 10 CTOs of the CTO Summit 2021 competition, as voted by vnexpress newspaper. I possess extensive knowledge and experience in web development, data engineering, cloud computing, and devops. My ability to build and develop teams from scratch includes activities such as conducting interviews, providing training, and leading teams. Currently, I have managed 20 engineers and more than 300 services in a Kubernetes Cluster",
+  "summary": "With a 15-year track record in software engineering, I have progressed through roles from developer and tech lead to manager, culminating in 5 years as a Chief Technology Officer (CTO). Recognized by the vnexpress newspaper, I was ranked among the top 10 CTOs at the CTO Summit 2021. My expertise spans system development, data engineering, cloud computing, and devops. I pride myself on my capability to establish and nurture teams, having firsthand experience in interviewing, training, and leadership. Presently, I oversee a team of 20 engineers and am responsible for managing over 100 services within a Kubernetes Cluster.",
   "location": {
     "address": "",
     "city": "Ho Chi Minh",
@@ -112,6 +112,11 @@
     "date": "2021-10",
     "awarder": "Vnexpress",
     "summary": "https://vnexpress.net/10-lanh-dao-cong-nghe-tre-xuat-sac-2021-4394153.html"
+  },
+  {
+    "title": "Chief Digital Officer (CDO) Award 2022 (IDG Vietnam)",
+    "date": "2022-10",
+    "awarder": "IDG Vietnam"
   }
 ],
 
